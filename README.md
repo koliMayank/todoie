@@ -16,5 +16,5 @@ This is just for code review
 3. todo_item_model.dart
 4. todo_provider.dart
 
-**Flow of app screen**
+**Flow of app**
 Main -> Home
