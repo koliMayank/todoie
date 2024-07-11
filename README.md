@@ -1,16 +1,20 @@
 # todo_app
 
-A new Flutter project.
+A simple task note app can be used for 
+Adding new task
+mark as complete
+delete old task
+add new task for next day.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is just for code review
 
-A few resources to get you started if this is your first Flutter project:
+**Important files to see**
+1. Main .dart
+2. Home.dart
+3. todo_item_model.dart
+4. todo_provider.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Flow of app screen**
+Main -> Home
